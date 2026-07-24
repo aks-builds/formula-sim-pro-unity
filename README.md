@@ -2,6 +2,8 @@
 
 Ultra-realistic top-down F1 mobile racing game built on **Unity 2023 LTS** with the **Universal Render Pipeline (URP)**.
 
+<img src=".github/media/how-it-works.png" width="900" alt="How formula-sim-pro-unity works: input drives player-car physics and AI opponents on the track/weather system, race logic and a connectivity gate split into online career/leaderboard sync or offline free-practice-only, then rendering, audio and HUD produce the frame shown on screen each loop" />
+
 ---
 
 ## What's different from the Defold version
